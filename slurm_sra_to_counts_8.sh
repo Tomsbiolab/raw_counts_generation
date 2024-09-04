@@ -16,7 +16,7 @@ module load python/3.8
 v_genome='PN40024_VCost_genome.fasta'
 
 # Annotation version to use (name of the annotation file to use without the format extension).
-v_anotation='PN40024_VCost.v3_27'
+v_annotation='PN40024_VCost.v3_27'
 
 # Folder where the reference genome and the annotation file are storaged
 genome_folder='/storage/TOM/genomas_anotaciones/vitis_vinifera/PN/'
